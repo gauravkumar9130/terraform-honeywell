@@ -29,3 +29,7 @@ variable "vm_name" {
 variable "user_name" {
     default = "gaurav"
 }
+
+variable "size" {
+    default = "Standard_F2"
+}
